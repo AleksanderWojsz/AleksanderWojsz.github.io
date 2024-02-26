@@ -7,7 +7,7 @@
 
  --- 
 
- ### Pictures: 
+### Pictures: 
 
 ![Obrazek](https://www.shutterstock.com/image-photo/ancient-royal-palaces-forbidden-city-260nw-601055852.jpg)
 
