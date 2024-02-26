@@ -1,5 +1,8 @@
 ### Additional info: 
 
+- [https://statueofunity.in/](https://statueofunity.in/)
+- [https://www.gujarattourism.com/central-zone/narmada/statue-of-unity.html](https://www.gujarattourism.com/central-zone/narmada/statue-of-unity.html)
+- [http://www.soutickets.in/](http://www.soutickets.in/)
 
 
  --- 
@@ -25,4 +28,24 @@
 ![Obrazek](https://www.shutterstock.com/image-photo/mumbai-india-04-jan-2024-260nw-2424079577.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/ekta-nagar-kevadia-gujarat-indianov-260nw-2384735959.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/ekta-nagar-kevadia-gujarat-indianov-260nw-2384735961.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/prime-minister-shri-narendra-modi-260nw-1968690955.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/prime-minister-shri-narendra-modi-260nw-1968844210.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/19-oct-2021-gujarat-india-260nw-2314643801.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/view-sardar-sarovar-dam-top-260nw-2406698403.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/19-oct-2021-gujarat-india-260nw-2314643795.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/view-sardar-sarovar-dam-top-260nw-2406698405.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/kevadia-gujrat-india-march-29th-260nw-2406694633.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/19-oct-2021-gujarat-india-260nw-2314643923.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/19-oct-2021-gujarat-india-260nw-2314643753.jpg)
 

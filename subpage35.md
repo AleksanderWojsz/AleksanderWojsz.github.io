@@ -1,5 +1,8 @@
 ### Additional info: 
 
+- [https://www.edinburghcastle.scot/](https://www.edinburghcastle.scot/)
+- [https://www.visitscotland.com/info/see-do/edinburgh-castle-p245821](https://www.visitscotland.com/info/see-do/edinburgh-castle-p245821)
+- [https://tickets.historic-scotland.gov.uk/webstore/shop/viewItems.aspx?cg=TKTS&c=GA](https://tickets.historic-scotland.gov.uk/webstore/shop/viewItems.aspx?cg=TKTS&c=GA)
 
 
  --- 
@@ -25,4 +28,24 @@
 ![Obrazek](https://www.shutterstock.com/image-photo/aerial-view-calton-hill-edinburgh-260nw-1372186328.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/castle-old-city-edinburgh-260nw-2064253550.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/edinburgh-castle-260nw-297342719.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/edinburgh-castle-historic-fortress-scotland-260nw-1387361129.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/landscape-calton-hill-edinburgh-uk-260nw-1252311778.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/uk-scotland-edinburgh-castle-cloudy-260nw-2321291353.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/beautiful-view-edinburgh-castle-vennel-260nw-2227019361.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/looking-magnificent-edinburgh-castle-historic-260nw-2269948539.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/edinburgh-castle-viewed-churchyard-st-260nw-2267953501.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/edinburgh-castle-on-rock-scotland-260nw-114723730.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/edinburgh-castle-during-sunset-warm-260nw-1711914484.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/edinburghscotland-06222022-jail-cells-edinburgh-260nw-2196766653.jpg)
 

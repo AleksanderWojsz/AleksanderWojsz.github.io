@@ -1,5 +1,8 @@
 ### Additional info: 
 
+- [https://www.auschwitz.org/en/](https://www.auschwitz.org/en/)
+- [https://www.auschwitz.org/](https://www.auschwitz.org/)
+- [https://www.theauschwitztours.com/auschwitz-birkenau-memorial-and-museum/](https://www.theauschwitztours.com/auschwitz-birkenau-memorial-and-museum/)
 
 
  --- 
@@ -25,4 +28,24 @@
 ![Obrazek](https://www.shutterstock.com/image-photo/auschwitz-poland-july-11-2017-260nw-742482232.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/auschwitz-concentration-camp-konzentrationslager-kl-260nw-2276365445.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/view-auschwitzbirkenau-offset-collection-260nw-1898019835.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/poland-06-2023-interior-barracks-260nw-2321182073.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/path-between-fences-auschwitz-concentration-260nw-1876469620.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/train-tracks-auschwitz-concentration-camp-260nw-1876473700.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/auschwitz-poland-july-30th-2018-260nw-2289687935.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/concentration-camp-auschwitzbirkenau-oswiecim-lesser-260nw-2206390429.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/railroad-track-gate-death-entrance-260nw-2091173086.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/solemn-reminder-auschwitzbirkenau-poland-haunting-260nw-2340099843.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/auschwitz-concentration-camp-konzentrationslager-kl-260nw-2276365417.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/poland-06-2023-auschwitz-birkenau-260nw-2321187599.jpg)
 

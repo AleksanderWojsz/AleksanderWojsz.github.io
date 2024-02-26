@@ -21,8 +21,8 @@ def create_subpage(country_name, city_name):
 
     with open(subpage_filename, "w", encoding="utf-8") as subpage_file:
         subpage_file.write("### Additional info: \n\n")
-        # for url in search(monument_name + " -site:https://en.wikipedia.org", stop=3):
-        #     subpage_file.write(f"- [{url}]({url})\n")
+        for url in search(monument_name + " -site:https://en.wikipedia.org", stop=3):
+            subpage_file.write(f"- [{url}]({url})\n")
         subpage_file.write("\n\n --- \n\n **Pictures**: \n\n")
 
         headers = {
@@ -32,7 +32,7 @@ def create_subpage(country_name, city_name):
         shutter_html_text = requests.get("https://www.shutterstock.com/pl/search/" + monument_name + " " + country_name + " " + city_name, headers=headers).text
         shutter_soup = BeautifulSoup(shutter_html_text, "lxml")
         images = shutter_soup.find("div", class_="mui-1nl4cpc-gridContainer-root")
-        for image in images.find_all("div", role="img", limit=10):
+        for image in images.find_all("div", role="img", limit=20):
             image_url = image.find("img").get("src")
             subpage_file.write(f"![Obrazek]({image_url})\n\n")
 

@@ -1,5 +1,8 @@
 ### Additional info: 
 
+- [http://mezquita-catedraldecordoba.es/en/](http://mezquita-catedraldecordoba.es/en/)
+- [https://www.turismodecordoba.org/the-mosque-cathedral-of-cordoba-spain](https://www.turismodecordoba.org/the-mosque-cathedral-of-cordoba-spain)
+- [https://smarthistory.org/the-great-mosque-of-cordoba/](https://smarthistory.org/the-great-mosque-of-cordoba/)
 
 
  --- 
@@ -25,4 +28,24 @@
 ![Obrazek](https://www.shutterstock.com/image-photo/cordoba-spain-july-14-2022-260nw-2322202479.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/mezquita-mosque-cathedral-unesco-world-260nw-2350277847.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/sunset-view-old-roman-bridge-260nw-2270737835.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/cordoba-spain-august-30-2023-260nw-2399106131.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/cordoba-spain-august-22-2023-260nw-2404076167.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/cordoba-spain-14th-september-2023-260nw-2401859653.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/cordoba-andalusia-spain-201907-mezquitacatedral-260nw-2235352787.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/spain-7-september-2014-mosquecathedral-260nw-2136158195.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/bell-tower-aerial-view-sunset-260nw-1800818617.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/cordoba-spain-10-24-2021-260nw-2244208517.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/cordoba-spain-jun-10-2019-260nw-2308808285.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/interior-cathedral-former-great-mosque-260nw-137864276.jpg)
 
