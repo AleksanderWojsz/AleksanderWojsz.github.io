@@ -9,7 +9,7 @@ def prepare_descriptions():
     description = wiki_soup.find("div", class_="mw-content-ltr mw-parser-output").find_all("p")[1].text
     table_headers = " | ".join(rows[1].text.strip().replace("\n", "| ").split("| ")[:3])  # lączy trzy pierwsze elementy oddzielając je |
 
-    file.write("## " + title + "\n\n" + description + "\n\n ### " + rows[0].text.strip() + "\n\n")
+    file.write("## " + title + "\n\n" + description + "\n\n **" + rows[0].text.strip() + "** \n\n")
     file.write("| Position |" + table_headers + " | pictures & links |\n")
     file.write("| --- | --- | --- | --- | --- |\n")
 
@@ -69,7 +69,7 @@ with open("index.md", "w", encoding="utf-8") as file:
     prepare_descriptions()
     position = 1
 
-    for row in rows[2:]:  # pomija nagłówek
+    for row in rows[2:5]:  # pomija nagłówek
         cells = row.find_all("td")
 
         country_name, city_name = create_table_row(position)
