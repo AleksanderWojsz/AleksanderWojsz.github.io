@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 import requests
 from googlesearch import search
 import time
-
+import os
 
 def prepare_descriptions():
     title = wiki_soup.find("h1", id="firstHeading").text
@@ -13,18 +13,17 @@ def prepare_descriptions():
     file.write("| Position |" + table_headers + " | pictures & links |\n")
     file.write("| --- | --- | --- | --- | --- |\n")
 
-
 def create_subpage(country_name, city_name):
-    subpage_filename = f"subpage{position}.md"
+    subpage_filename = os.path.join("subpages", f"subpage{position}.md")
     file.write(f" | [browse]({subpage_filename}) |")
 
     monument_name = cells[0].text.strip()
 
     with open(subpage_filename, "w", encoding="utf-8") as subpage_file:
         subpage_file.write("### Additional info: \n\n")
-        for url in search(monument_name + " -site:https://en.wikipedia.org", stop=3):
-            subpage_file.write(f"- [{url}]({url})\n")
-        subpage_file.write("\n\n --- \n\n ### Pictures: \n\n")
+        # for url in search(monument_name + " -site:https://en.wikipedia.org", stop=3):
+        #     subpage_file.write(f"- [{url}]({url})\n")
+        subpage_file.write("\n\n --- \n\n **Pictures**: \n\n")
 
         headers = {
             # https://stackoverflow.com/questions/72805266/python-web-scraping-code-error-http-error-406-not-acceptable
@@ -36,7 +35,6 @@ def create_subpage(country_name, city_name):
         for image in images.find_all("div", role="img", limit=10):
             image_url = image.find("img").get("src")
             subpage_file.write(f"![Obrazek]({image_url})\n\n")
-
 
 def create_table_row(position):
     file.write(f"| {position}")
@@ -64,6 +62,10 @@ wiki_soup = BeautifulSoup(wiki_html_text, "lxml")
 
 full_table = wiki_soup.find("table", class_="wikitable sortable")
 rows = full_table.find_all("tr")
+
+# sprawdza czy folder subpages istnieje, jak nie to go tworzy
+if os.path.exists("subpages") == False:
+    os.makedirs("subpages")
 
 with open("index.md", "w", encoding="utf-8") as file:
     prepare_descriptions()

@@ -1,13 +1,10 @@
 ### Additional info: 
 
-- [https://www.britannica.com/topic/Forbidden-City](https://www.britannica.com/topic/Forbidden-City)
-- [https://whc.unesco.org/en/list/439/](https://whc.unesco.org/en/list/439/)
-- [https://www.khanacademy.org/humanities/ap-art-history/south-east-se-asia/china-art/a/forbidden-city](https://www.khanacademy.org/humanities/ap-art-history/south-east-se-asia/china-art/a/forbidden-city)
 
 
  --- 
 
- ### Pictures: 
+ **Pictures**: 
 
 ![Obrazek](https://www.shutterstock.com/image-photo/ancient-royal-palaces-forbidden-city-260nw-601055852.jpg)
 

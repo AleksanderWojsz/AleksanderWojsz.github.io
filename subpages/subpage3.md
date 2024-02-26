@@ -1,13 +1,10 @@
 ### Additional info: 
 
-- [https://en.chateauversailles.fr/](https://en.chateauversailles.fr/)
-- [https://whc.unesco.org/en/list/83/](https://whc.unesco.org/en/list/83/)
-- [https://www.britannica.com/topic/Palace-of-Versailles](https://www.britannica.com/topic/Palace-of-Versailles)
 
 
  --- 
 
- ### Pictures: 
+ **Pictures**: 
 
 ![Obrazek](https://www.shutterstock.com/image-photo/latona-fountain-versailles-park-landscape-260nw-2273706197.jpg)
 

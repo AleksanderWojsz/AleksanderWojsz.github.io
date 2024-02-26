@@ -1,13 +1,10 @@
 ### Additional info: 
 
-- [https://www.basilicasanpietro.va/en.html](https://www.basilicasanpietro.va/en.html)
-- [https://www.basilicasanpietro.va/en/info-and-opening-hours/info.html](https://www.basilicasanpietro.va/en/info-and-opening-hours/info.html)
-- [https://www.basilicasanpietro.va/en/book.html](https://www.basilicasanpietro.va/en/book.html)
 
 
  --- 
 
- ### Pictures: 
+ **Pictures**: 
 
 ![Obrazek](https://www.shutterstock.com/image-photo/above-aerial-view-piazza-san-260nw-2371487363.jpg)
 
