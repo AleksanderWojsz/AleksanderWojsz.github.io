@@ -10,13 +10,12 @@ rows = full_table.find_all("tr")
 with open("index.md", "w", encoding="utf-8") as file:  # Otwiera plik w trybie zapisu
     file.write(rows[0].text.strip() + "\n\n")
     file.write("| Position |")
-    file.write(" | ".join(rows[1].text.strip().replace("\n", ", ").split(", ")[
-                          :3]) + "|\n")  # Łączy trzy pierwsze elementy odzielając je przecinkami
-    file.write("| --- | --- | --- | --- |\n")
+    file.write(" | ".join(rows[1].text.strip().replace("\n", ", ").split(", ")[:3]) + " | more |\n")  # Łączy trzy pierwsze elementy odzielając je przecinkami
+    file.write("| --- | --- | --- | --- | --- |\n")
 
     position = 1  # Inicjalizuje zmienną licznikową dla pozycji
 
-    for row in rows[2:]:  # pomija nagłówek
+    for row in rows[2:4]:  # pomija nagłówek
         cells = row.find_all("td")
 
         # Dodaje pozycję jako pierwszą komórkę w każdym wierszu
@@ -41,5 +40,13 @@ with open("index.md", "w", encoding="utf-8") as file:  # Otwiera plik w trybie z
             else:
                 file.write(cells[i].text.strip())
 
-        position += 1  # Zwiększa licznik pozycji
+        # Dodaje link "more" prowadzący do podstrony z zawartością "hello"
+        subpage_filename = f"subpage{position}.md"
+        file.write(f" | [more]({subpage_filename}) |")
+
+        # Tworzy i zapisuje do pliku subpage{numer}.md zawartość "hello"
+        with open(subpage_filename, "w", encoding="utf-8") as subpage_file:
+            subpage_file.write("hello")
+
         file.write("\n")
+        position += 1  # Zwiększa licznik pozycji
