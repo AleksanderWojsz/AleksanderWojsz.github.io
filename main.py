@@ -17,7 +17,7 @@ with open("index.md", "w", encoding="utf-8") as file:  # Otwiera plik w trybie z
 
     position = 1  # Inicjalizuje zmienną licznikową dla pozycji
 
-    for row in rows[2:4]:  # pomija nagłówek
+    for row in rows[2:5]:  # pomija nagłówek
         cells = row.find_all("td")
 
         # Dodaje pozycję jako pierwszą komórkę w każdym wierszu
@@ -54,6 +54,24 @@ with open("index.md", "w", encoding="utf-8") as file:  # Otwiera plik w trybie z
             subpage_file.write("Additonal info: \n\n")
             for url in search(monument_name + " -site:https://en.wikipedia.org", stop=3):
                 subpage_file.write(f"- [{url}]({url})\n")
+
+            subpage_file.write("\n")
+            subpage_file.write("Pictures: \n\n")
+
+
+            headers = { #  https://stackoverflow.com/questions/72805266/python-web-scraping-code-error-http-error-406-not-acceptable
+                'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36',
+            }
+            html_text2 = requests.get("https://www.shutterstock.com/pl/search/" + monument_name, headers=headers).text
+            soup = BeautifulSoup(html_text2, "lxml")
+            images = soup.find("div", class_="mui-1nl4cpc-gridContainer-root")
+            for image in images.find_all("div", role="img", limit=5):
+                image_url = image.find("img").get("src")
+                subpage_file.write(f"![Obrazek]({image_url})\n\n")
+
+
+
+
 
         file.write("\n")
         position += 1  # Zwiększa licznik pozycji
