@@ -1,5 +1,6 @@
 from bs4 import BeautifulSoup
 import requests
+from googlesearch import search
 
 html_text = requests.get("https://en.wikipedia.org/wiki/List_of_most_visited_palaces_and_monuments").text
 soup = BeautifulSoup(html_text, "lxml")
@@ -10,7 +11,8 @@ rows = full_table.find_all("tr")
 with open("index.md", "w", encoding="utf-8") as file:  # Otwiera plik w trybie zapisu
     file.write(rows[0].text.strip() + "\n\n")
     file.write("| Position |")
-    file.write(" | ".join(rows[1].text.strip().replace("\n", ", ").split(", ")[:3]) + " | more |\n")  # Łączy trzy pierwsze elementy odzielając je przecinkami
+    file.write(" | ".join(rows[1].text.strip().replace("\n", ", ").split(", ")[
+                          :3]) + " | more |\n")  # Łączy trzy pierwsze elementy odzielając je przecinkami
     file.write("| --- | --- | --- | --- | --- |\n")
 
     position = 1  # Inicjalizuje zmienną licznikową dla pozycji
@@ -20,6 +22,7 @@ with open("index.md", "w", encoding="utf-8") as file:  # Otwiera plik w trybie z
 
         # Dodaje pozycję jako pierwszą komórkę w każdym wierszu
         file.write(f"| {position}")
+
 
         for i in range(3):
             file.write(" | ")
@@ -44,9 +47,13 @@ with open("index.md", "w", encoding="utf-8") as file:  # Otwiera plik w trybie z
         subpage_filename = f"subpage{position}.md"
         file.write(f" | [more]({subpage_filename}) |")
 
+        monument_name = cells[0].text.strip()
+
         # Tworzy i zapisuje do pliku subpage{numer}.md zawartość "hello"
         with open(subpage_filename, "w", encoding="utf-8") as subpage_file:
-            subpage_file.write("hello")
+            subpage_file.write("Additonal info: \n\n")
+            for url in search(monument_name + " -site:https://en.wikipedia.org", stop=3):
+                subpage_file.write(url + "\n\n")
 
         file.write("\n")
         position += 1  # Zwiększa licznik pozycji
