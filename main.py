@@ -1,8 +1,7 @@
-import time
-
 from bs4 import BeautifulSoup
 import requests
 from googlesearch import search
+import time
 
 
 def prepare_descriptions():
@@ -10,7 +9,7 @@ def prepare_descriptions():
     description = wiki_soup.find("div", class_="mw-content-ltr mw-parser-output").find_all("p")[1].text
     table_headers = " | ".join(rows[1].text.strip().replace("\n", "| ").split("| ")[:3])  # lączy trzy pierwsze elementy oddzielając je |
 
-    file.write("## " + title + "\n\n" + description + "\n\n #### " + rows[0].text.strip() + "\n\n")
+    file.write("## " + title + "\n\n" + description + "\n\n ### " + rows[0].text.strip() + "\n\n")
     file.write("| Position |" + table_headers + " | pictures & links |\n")
     file.write("| --- | --- | --- | --- | --- |\n")
 
@@ -34,7 +33,7 @@ def create_subpage(country_name, city_name):
         shutter_html_text = requests.get("https://www.shutterstock.com/pl/search/" + monument_name + " " + country_name + " " + city_name, headers=headers).text
         shutter_soup = BeautifulSoup(shutter_html_text, "lxml")
         images = shutter_soup.find("div", class_="mui-1nl4cpc-gridContainer-root")
-        for image in images.find_all("div", role="img", limit=5):
+        for image in images.find_all("div", role="img", limit=10):
             image_url = image.find("img").get("src")
             subpage_file.write(f"![Obrazek]({image_url})\n\n")
 
@@ -70,7 +69,7 @@ with open("index.md", "w", encoding="utf-8") as file:
     prepare_descriptions()
     position = 1
 
-    for row in rows[2:5]:  # pomija nagłówek
+    for row in rows[2:]:  # pomija nagłówek
         cells = row.find_all("td")
 
         country_name, city_name = create_table_row(position)
