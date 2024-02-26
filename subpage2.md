@@ -6,10 +6,6 @@
 
  **Pictures**: 
 
-![Obrazek](https://www.shutterstock.com/image-photo/above-aerial-view-piazza-san-260nw-2371487363.jpg)
-
-![Obrazek](https://www.shutterstock.com/image-photo/september-25-2016-general-view-260nw-1957111423.jpg)
-
 ![Obrazek](https://www.shutterstock.com/image-photo/st-peters-basilica-dome-vatican-260nw-2239651529.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/st-peters-basilica-on-saint-260nw-2222780191.jpg)
@@ -24,5 +20,9 @@
 
 ![Obrazek](https://www.shutterstock.com/image-photo/view-cupola-st-peters-basilica-260nw-1921226270.jpg)
 
+![Obrazek](https://www.shutterstock.com/image-photo/above-aerial-view-piazza-san-260nw-2371487363.jpg)
+
 ![Obrazek](https://www.shutterstock.com/image-photo/st-peters-basilica-on-square-260nw-2214570797.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/stpeters-basilica-ponte-vittorio-emanuele-260nw-1922377871.jpg)
 
