@@ -9,10 +9,13 @@ full_table = soup.find("table", class_="wikitable sortable")
 rows = full_table.find_all("tr")
 
 with open("index.md", "w", encoding="utf-8") as file:  # Otwiera plik w trybie zapisu
+    description = soup.find("div", class_="mw-content-ltr mw-parser-output").find_all("p")[1].text
+    table_headers = " | ".join(rows[1].text.strip().replace("\n", "| ").split("| ")[:3])
+
+    file.write(description + "\n\n")
     file.write(rows[0].text.strip() + "\n\n")
     file.write("| Position |")
-    file.write(" | ".join(rows[1].text.strip().replace("\n", ", ").split(", ")[
-                          :3]) + " | more |\n")  # Łączy trzy pierwsze elementy odzielając je przecinkami
+    file.write(table_headers + " | pictures & links |\n")  # Łączy trzy pierwsze elementy odzielając je przecinkami
     file.write("| --- | --- | --- | --- | --- |\n")
 
     position = 1  # Inicjalizuje zmienną licznikową dla pozycji
@@ -45,7 +48,7 @@ with open("index.md", "w", encoding="utf-8") as file:  # Otwiera plik w trybie z
 
         # Dodaje link "more" prowadzący do podstrony z zawartością "hello"
         subpage_filename = f"subpage{position}.md"
-        file.write(f" | [more]({subpage_filename}) |")
+        file.write(f" | [visit]({subpage_filename}) |")
 
         monument_name = cells[0].text.strip()
 
@@ -75,3 +78,5 @@ with open("index.md", "w", encoding="utf-8") as file:  # Otwiera plik w trybie z
 
         file.write("\n")
         position += 1  # Zwiększa licznik pozycji
+
+
