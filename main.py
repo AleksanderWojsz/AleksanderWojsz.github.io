@@ -53,7 +53,7 @@ with open("index.md", "w", encoding="utf-8") as file:  # Otwiera plik w trybie z
         with open(subpage_filename, "w", encoding="utf-8") as subpage_file:
             subpage_file.write("Additonal info: \n\n")
             for url in search(monument_name + " -site:https://en.wikipedia.org", stop=3):
-                subpage_file.write(url + "\n\n")
+                subpage_file.write(f"- [{url}]({url})\n")
 
         file.write("\n")
         position += 1  # Zwiększa licznik pozycji
