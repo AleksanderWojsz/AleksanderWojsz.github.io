@@ -78,6 +78,6 @@ with open("table_page.md", "w", encoding="utf-8") as table_page:
 
 with open("index.md", "w", encoding="utf-8") as main_page:
     main_page.write("# Fan zabytków \n\n")
-    main_page.write("--- \n\n Hej, jeśli tak jak ja, jesteś fanem zabytków i szukasz następnego celu podróży, to polecam Ci tę strone: \n\n")
+    main_page.write("\n\n Hej, jeśli tak jak ja, jesteś fanem zabytków i szukasz następnego celu podróży, to polecam Ci tę strone: \n\n")
     main_page.write(f"[Most visited monuments (with pictures!)](table_page.md) \n\n")
     main_page.write("Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.")
