@@ -1,15 +1,10 @@
 ### Additional info: 
 
-- [https://www.nps.gov/stli/](https://www.nps.gov/stli/)
-- [https://www.nps.gov/stli/planyourvisit/index.htm](https://www.nps.gov/stli/planyourvisit/index.htm)
-- [https://www.nps.gov/stli/planyourvisit/fees.htm](https://www.nps.gov/stli/planyourvisit/fees.htm)
 
 
  --- 
 
  **Pictures**: 
-
-![Obrazek](https://www.shutterstock.com/image-photo/picturesque-view-statue-liberty-located-260nw-2250962995.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/statue-liberty-world-trade-center-260nw-676088749.jpg)
 
@@ -35,7 +30,11 @@
 
 ![Obrazek](https://www.shutterstock.com/image-photo/statue-liberty-highrise-building-lower-260nw-1300624558.jpg)
 
+![Obrazek](https://www.shutterstock.com/image-photo/picturesque-view-statue-liberty-located-260nw-2250962995.jpg)
+
 ![Obrazek](https://www.shutterstock.com/image-vector/new-york-260nw-81592828.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/below-back-view-cropped-exterior-260nw-2250963007.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-vector/vector-illustration-statue-liberty-new-260nw-726284053.jpg)
 
@@ -46,6 +45,4 @@
 ![Obrazek](https://www.shutterstock.com/image-vector/set-grunge-rubber-stamps-new-260nw-117298756.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-vector/welcome-usa-united-states-america-260nw-676137877.jpg)
-
-![Obrazek](https://www.shutterstock.com/image-vector/statue-liberty-nyc-usa-symbol-260nw-554347441.jpg)
 

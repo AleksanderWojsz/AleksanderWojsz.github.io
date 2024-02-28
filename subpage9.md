@@ -1,8 +1,5 @@
 ### Additional info: 
 
-- [https://www.koelner-dom.de/en](https://www.koelner-dom.de/en)
-- [https://www.koelner-dom.de/en#opening-hours](https://www.koelner-dom.de/en#opening-hours)
-- [https://www.koelner-dom.de/en#service-hours](https://www.koelner-dom.de/en#service-hours)
 
 
  --- 
@@ -11,13 +8,15 @@
 
 ![Obrazek](https://www.shutterstock.com/image-photo/distant-view-city-cologne-evening-260nw-2235687979.jpg)
 
+![Obrazek](https://www.shutterstock.com/image-photo/germany-north-rhinewestphalia-rhineland-cologne-260nw-1872410803.jpg)
+
 ![Obrazek](https://www.shutterstock.com/image-photo/detail-cathedral-cologne-germany-260nw-1360865633.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/cologne-cathedral-hohenzollern-bridge-through-260nw-2291545111.jpg)
 
-![Obrazek](https://www.shutterstock.com/image-photo/cologne-aerial-view-trains-move-260nw-2232485429.jpg)
+![Obrazek](https://www.shutterstock.com/image-photo/waterfront-cityscape-town-hall-great-260nw-1896037270.jpg)
 
-![Obrazek](https://www.shutterstock.com/image-photo/germany-north-rhinewestphalia-rhineland-cologne-260nw-1872410803.jpg)
+![Obrazek](https://www.shutterstock.com/image-photo/cologne-aerial-view-trains-move-260nw-2232485429.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/cologne-germany-jan-28-2020-260nw-2259117547.jpg)
 
@@ -32,8 +31,6 @@
 ![Obrazek](https://www.shutterstock.com/image-photo/aerial-view-cologne-germany-260nw-294527597.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/cologne-cathedral-hohenzollern-bridge-sunset-260nw-426521938.jpg)
-
-![Obrazek](https://www.shutterstock.com/image-photo/waterfront-cityscape-town-hall-great-260nw-1896037270.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/cologne-cathedral-main-catholic-church-260nw-2347214357.jpg)
 

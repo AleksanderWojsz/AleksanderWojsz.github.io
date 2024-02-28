@@ -1,8 +1,5 @@
 ### Additional info: 
 
-- [https://www.alcazarsevilla.org/home/](https://www.alcazarsevilla.org/home/)
-- [https://www.alcazarsevilla.org/noticias/english-version/](https://www.alcazarsevilla.org/noticias/english-version/)
-- [https://www.tripadvisor.com/Attraction_Review-g187443-d191139-Reviews-Real_Alcazar_de_Sevilla-Seville_Province_of_Seville_Andalucia.html](https://www.tripadvisor.com/Attraction_Review-g187443-d191139-Reviews-Real_Alcazar_de_Sevilla-Seville_Province_of_Seville_Andalucia.html)
 
 
  --- 

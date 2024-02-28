@@ -1,8 +1,5 @@
 ### Additional info: 
 
-- [https://www.nps.gov/vive/](https://www.nps.gov/vive/)
-- [https://www.nps.gov/media/video/view.htm%3Fid%3Df7122bc7-1dd8-b71c-07cc0cdc91e91cfa](https://www.nps.gov/media/video/view.htm%3Fid%3Df7122bc7-1dd8-b71c-07cc0cdc91e91cfa)
-- [https://www.nps.gov/vive/planyourvisit/basicinfo.htm](https://www.nps.gov/vive/planyourvisit/basicinfo.htm)
 
 
  --- 
@@ -15,9 +12,9 @@
 
 ![Obrazek](https://www.shutterstock.com/image-photo/united-states-capitol-building-dramatic-260nw-2110094846.jpg)
 
-![Obrazek](https://www.shutterstock.com/image-photo/united-states-capitol-government-washington-260nw-223261177.jpg)
-
 ![Obrazek](https://www.shutterstock.com/image-photo/washington-district-columbia-february-14-260nw-2428352263.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/united-states-capitol-government-washington-260nw-223261177.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/washington-monument-on-reflecting-pool-260nw-1140788474.jpg)
 

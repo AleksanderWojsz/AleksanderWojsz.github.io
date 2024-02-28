@@ -1,8 +1,5 @@
 ### Additional info: 
 
-- [https://www.hrp.org.uk/tower-of-london/](https://www.hrp.org.uk/tower-of-london/)
-- [https://www.hrp.org.uk/tower-of-london/visit/tickets-and-prices/](https://www.hrp.org.uk/tower-of-london/visit/tickets-and-prices/)
-- [https://www.hrp.org.uk/tower-of-london/whats-included-in-your-ticket/](https://www.hrp.org.uk/tower-of-london/whats-included-in-your-ticket/)
 
 
  --- 
@@ -10,6 +7,8 @@
  **Pictures**: 
 
 ![Obrazek](https://www.shutterstock.com/image-photo/aerial-view-tower-bridge-london-260nw-1580351002.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/big-ben-london-england-united-260nw-2271605393.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/aerial-panoramic-cityscape-view-london-260nw-551334580.jpg)
 
@@ -24,6 +23,8 @@
 ![Obrazek](https://www.shutterstock.com/image-photo/morning-panorama-london-tower-bridge-260nw-1554978233.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/panorama-tower-bridge-sunset-london-260nw-750033364.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/london-united-kingdom-march-7-260nw-2376781549.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/city-london-westminster-united-kingdom-260nw-791976160.jpg)
 
@@ -43,9 +44,5 @@
 
 ![Obrazek](https://www.shutterstock.com/image-photo/tourism-london-back-view-traveler-260nw-2180317035.jpg)
 
-![Obrazek](https://www.shutterstock.com/image-photo/big-ben-views-london-england-260nw-2339869749.jpg)
-
-![Obrazek](https://www.shutterstock.com/image-photo/big-ben-london-england-united-260nw-2271605393.jpg)
-
-![Obrazek](https://www.shutterstock.com/image-photo/london-united-kingdom-march-7-260nw-2376781549.jpg)
+![Obrazek](https://www.shutterstock.com/image-photo/view-over-river-thames-towards-260nw-2271605397.jpg)
 

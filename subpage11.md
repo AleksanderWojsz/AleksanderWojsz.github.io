@@ -1,21 +1,16 @@
 ### Additional info: 
 
-- [https://www.lazienki-krolewskie.pl/pl/architektura/palac-na-wyspie](https://www.lazienki-krolewskie.pl/pl/architektura/palac-na-wyspie)
-- [https://www.lazienki-krolewskie.pl/pl/](https://www.lazienki-krolewskie.pl/pl/)
-- [https://pl.wikipedia.org/wiki/Pa%C5%82ac_Na_Wyspie](https://pl.wikipedia.org/wiki/Pa%C5%82ac_Na_Wyspie)
 
 
  --- 
 
  **Pictures**: 
 
-![Obrazek](https://www.shutterstock.com/image-photo/general-view-luxury-bathroom-shower-260nw-2265008303.jpg)
-
 ![Obrazek](https://www.shutterstock.com/image-photo/modern-minimalist-bathroom-interior-cabinet-260nw-2367648673.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-illustration/3d-render-empty-white-vanity-260nw-2100482401.jpg)
 
-![Obrazek](https://www.shutterstock.com/image-photo/shower-cabin-bathtub-mirror-over-260nw-2379750457.jpg)
+![Obrazek](https://www.shutterstock.com/image-photo/general-view-luxury-bathroom-shower-260nw-2265008303.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/empty-marble-table-top-blurred-260nw-2282504569.jpg)
 
@@ -35,8 +30,6 @@
 
 ![Obrazek](https://www.shutterstock.com/image-illustration/3d-render-beautiful-white-vanity-260nw-2124686609.jpg)
 
-![Obrazek](https://www.shutterstock.com/image-photo/mirrors-on-pink-wall-black-260nw-2379750085.jpg)
-
 ![Obrazek](https://www.shutterstock.com/image-photo/bathroom-sink-table-empty-stand-260nw-2277544853.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/modern-minimalist-bathroom-interior-cabinet-260nw-2367648433.jpg)
@@ -48,4 +41,8 @@
 ![Obrazek](https://www.shutterstock.com/image-photo/empty-marble-podium-on-bathroom-260nw-2291105947.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/interior-light-bathroom-counters-sink-260nw-2277550487.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-illustration/modern-bathroom-interior-wooden-decor-260nw-1659463054.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-illustration/side-view-on-eco-interior-260nw-2160154677.jpg)
 

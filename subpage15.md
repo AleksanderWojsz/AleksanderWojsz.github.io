@@ -1,8 +1,5 @@
 ### Additional info: 
 
-- [https://sagradafamilia.org/en/](https://sagradafamilia.org/en/)
-- [https://sagradafamilia.org/en/history-of-the-temple](https://sagradafamilia.org/en/history-of-the-temple)
-- [https://sagradafamilia.org/en/tickets](https://sagradafamilia.org/en/tickets)
 
 
  --- 
@@ -10,6 +7,8 @@
  **Pictures**: 
 
 ![Obrazek](https://www.shutterstock.com/image-photo/barcelona-spain-february-10-2016-260nw-2080319242.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/aerial-view-sagrada-familia-barcelona-260nw-2331204195.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/basilica-sagrada-familia-barcelona-260nw-2024563775.jpg)
 
@@ -27,11 +26,13 @@
 
 ![Obrazek](https://www.shutterstock.com/image-photo/barcelona-260nw-178539545.jpg)
 
+![Obrazek](https://www.shutterstock.com/image-photo/spain-catalonia-below-view-residential-260nw-2371415095.jpg)
+
 ![Obrazek](https://www.shutterstock.com/image-photo/view-city-park-guell-barcelona-260nw-1347219839.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/caucasian-woman-visiting-barcelona-city-260nw-2230515483.jpg)
 
-![Obrazek](https://www.shutterstock.com/image-photo/aerial-view-sagrada-familia-barcelona-260nw-2331204195.jpg)
+![Obrazek](https://www.shutterstock.com/image-photo/aerial-view-sagrada-familia-barcelona-260nw-2331203537.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/barcelona-spain-september-152015-sagrada-260nw-580081957.jpg)
 
@@ -41,11 +42,7 @@
 
 ![Obrazek](https://www.shutterstock.com/image-photo/sagrada-familia-cathedral-spring-barcelona-260nw-2156289499.jpg)
 
+![Obrazek](https://www.shutterstock.com/image-photo/aerial-view-wonderful-cityscape-residential-260nw-2301055895.jpg)
+
 ![Obrazek](https://www.shutterstock.com/image-photo/sagrada-familia-seen-park-260nw-2152216865.jpg)
-
-![Obrazek](https://www.shutterstock.com/image-photo/dusk-view-barcelona-spain-plaza-260nw-520067140.jpg)
-
-![Obrazek](https://www.shutterstock.com/image-photo/view-barcelona-park-sunrise-260nw-734963035.jpg)
-
-![Obrazek](https://www.shutterstock.com/image-photo/aerial-view-barcelona-urban-skyline-260nw-2185927923.jpg)
 

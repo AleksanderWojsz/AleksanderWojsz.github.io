@@ -1,8 +1,5 @@
 ### Additional info: 
 
-- [https://pl.wikipedia.org/wiki/Tulum](https://pl.wikipedia.org/wiki/Tulum)
-- [https://pl.wikipedia.org/wiki/Tulum#Historia](https://pl.wikipedia.org/wiki/Tulum#Historia)
-- [https://pl.wikipedia.org/wiki/Tulum#Strefa_archeologiczna_Tulum](https://pl.wikipedia.org/wiki/Tulum#Strefa_archeologiczna_Tulum)
 
 
  --- 
@@ -25,9 +22,9 @@
 
 ![Obrazek](https://www.shutterstock.com/image-photo/puerto-adventuras-quintana-roo-mexico-260nw-2389739117.jpg)
 
-![Obrazek](https://www.shutterstock.com/image-photo/equinox-architecture-mayan-ruins-tulum-260nw-2381977985.jpg)
-
 ![Obrazek](https://www.shutterstock.com/image-photo/cenote-dos-ojos-quintana-roo-260nw-751966621.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/equinox-architecture-mayan-ruins-tulum-260nw-2381977985.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/tulum-maya-ruins-caribbean-sea-260nw-1918746140.jpg)
 
@@ -35,17 +32,17 @@
 
 ![Obrazek](https://www.shutterstock.com/image-photo/panoramic-mayan-ruins-ruinas-de-260nw-261945317.jpg)
 
+![Obrazek](https://www.shutterstock.com/image-photo/aerial-view-person-floating-cenote-260nw-2361623163.jpg)
+
 ![Obrazek](https://www.shutterstock.com/image-photo/paradise-beach-called-playa-paraiso-260nw-747317032.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/riviera-maya-paradise-beaches-cancun-260nw-647628562.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/kaan-luum-lagoon-located-tulum-260nw-1594251649.jpg)
 
+![Obrazek](https://www.shutterstock.com/image-photo/aerial-view-casa-cenote-another-260nw-2361623161.jpg)
+
 ![Obrazek](https://www.shutterstock.com/image-photo/paradise-beach-caribbean-coast-mexico-260nw-642212026.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/paradise-scenery-tulum-tropical-coast-260nw-1248385741.jpg)
-
-![Obrazek](https://www.shutterstock.com/image-photo/tulum-mexicomarch-04-2018-shops-260nw-2010632429.jpg)
-
-![Obrazek](https://www.shutterstock.com/image-photo/colorful-old-city-streets-historic-260nw-2115937436.jpg)
 

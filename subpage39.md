@@ -1,8 +1,5 @@
 ### Additional info: 
 
-- [https://www.paris-arc-de-triomphe.fr/en/](https://www.paris-arc-de-triomphe.fr/en/)
-- [https://www.thingstodoinparis.com/attractions/arcdetriomphe/](https://www.thingstodoinparis.com/attractions/arcdetriomphe/)
-- [https://www.britannica.com/topic/Arc-de-Triomphe](https://www.britannica.com/topic/Arc-de-Triomphe)
 
 
  --- 
@@ -35,17 +32,17 @@
 
 ![Obrazek](https://www.shutterstock.com/image-photo/arch-triumph-arc-de-triomphe-260nw-2227745545.jpg)
 
-![Obrazek](https://www.shutterstock.com/image-photo/arc-de-triomphe-paris-daytime-260nw-2305871303.jpg)
-
 ![Obrazek](https://www.shutterstock.com/image-photo/arc-de-triomphe-sky-paris-260nw-1888301431.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/arc-de-triomphe-paris-daytime-260nw-2305871303.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/paris-france-sunset-city-skyline-260nw-2126313929.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/couple-on-citytrip-paris-visiting-260nw-2342205503.jpg)
 
+![Obrazek](https://www.shutterstock.com/image-photo/france-iledefrance-paris-arc-de-260nw-2361560987.jpg)
+
 ![Obrazek](https://www.shutterstock.com/image-photo/arc-de-triomphe-located-paris-260nw-683453329.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/paris-arc-de-triomphe-triumphal-260nw-662979433.jpg)
-
-![Obrazek](https://www.shutterstock.com/image-photo/france-iledefrance-paris-arc-de-260nw-2361560987.jpg)
 

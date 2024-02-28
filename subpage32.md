@@ -1,8 +1,5 @@
 ### Additional info: 
 
-- [https://www.tripadvisor.com/Attraction_Review-g298537-d308076-Reviews-State_Historical_and_Memorial_Preserve_The_Battle_of_Stalingrad-Volgograd_Volgogra.html](https://www.tripadvisor.com/Attraction_Review-g298537-d308076-Reviews-State_Historical_and_Memorial_Preserve_The_Battle_of_Stalingrad-Volgograd_Volgogra.html)
-- [https://wartraveller.com/ww2-location/volgograd-museum-of-the-battle-of-stalingrad/](https://wartraveller.com/ww2-location/volgograd-museum-of-the-battle-of-stalingrad/)
-- [https://www.prlib.ru/en/events/1311805](https://www.prlib.ru/en/events/1311805)
 
 
  --- 

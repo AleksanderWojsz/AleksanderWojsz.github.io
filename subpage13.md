@@ -1,8 +1,5 @@
 ### Additional info: 
 
-- [https://www.nps.gov/wwii/](https://www.nps.gov/wwii/)
-- [https://www.nps.gov/wwii/planyourvisit/basicinfo.htm](https://www.nps.gov/wwii/planyourvisit/basicinfo.htm)
-- [https://www.nps.gov/wwii/learn/historyculture/the-memorial-elements.htm](https://www.nps.gov/wwii/learn/historyculture/the-memorial-elements.htm)
 
 
  --- 
@@ -18,6 +15,8 @@
 ![Obrazek](https://www.shutterstock.com/image-photo/world-war-ii-memorial-washington-260nw-578190061.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/view-washington-monument-world-war-260nw-2377297369.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/freedom-wall-washington-dc-260nw-1876335211.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/freedom-wall-gold-stars-world-260nw-2381383663.jpg)
 
@@ -46,6 +45,4 @@
 ![Obrazek](https://www.shutterstock.com/image-photo/inscription-battle-bulge-two-roses-260nw-1750773059.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/world-war-ii-memorial-fountain-260nw-141953269.jpg)
-
-![Obrazek](https://www.shutterstock.com/image-photo/washington-dc-usa-september-102017-260nw-1130683961.jpg)
 

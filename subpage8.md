@@ -1,8 +1,5 @@
 ### Additional info: 
 
-- [https://simple.wikipedia.org/wiki/Taj_Mahal](https://simple.wikipedia.org/wiki/Taj_Mahal)
-- [https://pl.wikipedia.org/wiki/Tad%C5%BA_Mahal](https://pl.wikipedia.org/wiki/Tad%C5%BA_Mahal)
-- [https://pl.wikipedia.org/wiki/Mumtaz_Mahal](https://pl.wikipedia.org/wiki/Mumtaz_Mahal)
 
 
  --- 
@@ -25,9 +22,9 @@
 
 ![Obrazek](https://www.shutterstock.com/image-photo/fabulous-taj-mahal-260nw-225821824.jpg)
 
-![Obrazek](https://www.shutterstock.com/image-photo/panoramic-view-taj-mahal-during-260nw-1064546219.jpg)
-
 ![Obrazek](https://www.shutterstock.com/image-photo/aerial-view-taj-mahal-along-260nw-2165384403.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/panoramic-view-taj-mahal-during-260nw-1064546219.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/taj-mahal-scenic-sunset-view-260nw-621278474.jpg)
 
@@ -36,8 +33,6 @@
 ![Obrazek](https://www.shutterstock.com/image-photo/agra-uttar-pradesh-india-morning-260nw-593203085.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/taj-mahal-palace-agra-india-260nw-1593165883.jpg)
-
-![Obrazek](https://www.shutterstock.com/image-photo/february-15-2020-taj-mahal-260nw-1874321026.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/taj-mahal-white-marble-mausoleum-260nw-1377686576.jpg)
 
@@ -48,4 +43,6 @@
 ![Obrazek](https://www.shutterstock.com/image-photo/taj-mahal-sunrise-light-agra-260nw-107261249.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/taj-mahal-sunset-famous-place-260nw-1935129080.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/tajmahal-best-place-world-260nw-2290080483.jpg)
 

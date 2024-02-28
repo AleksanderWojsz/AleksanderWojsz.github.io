@@ -1,8 +1,5 @@
 ### Additional info: 
 
-- [http://pompeiisites.org/en/](http://pompeiisites.org/en/)
-- [https://www.britannica.com/place/Pompeii](https://www.britannica.com/place/Pompeii)
-- [https://www.pompeionline.net/en/](https://www.pompeionline.net/en/)
 
 
  --- 

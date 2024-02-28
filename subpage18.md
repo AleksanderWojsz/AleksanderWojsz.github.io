@@ -1,8 +1,5 @@
 ### Additional info: 
 
-- [https://www.holidify.com/places/mysore/mysore-palace-sightseeing-2954.html](https://www.holidify.com/places/mysore/mysore-palace-sightseeing-2954.html)
-- [https://mysore.nic.in/en/tourist-place/mysuru-palace/](https://mysore.nic.in/en/tourist-place/mysuru-palace/)
-- [https://www.britannica.com/topic/Mysore-Palace](https://www.britannica.com/topic/Mysore-Palace)
 
 
  --- 
@@ -12,8 +9,6 @@
 ![Obrazek](https://www.shutterstock.com/image-photo/vast-palace-showcases-ornate-pillars-260nw-2361577507.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-vector/mysore-royal-palace-illustration-art-260nw-2364742357.jpg)
-
-![Obrazek](https://www.shutterstock.com/image-photo/mysore-karnataka-india-11-august-260nw-1872204580.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-vector/illustration-mysore-palace-state-karnataka-260nw-2295109371.jpg)
 
@@ -31,15 +26,17 @@
 
 ![Obrazek](https://www.shutterstock.com/image-vector/dussehra-festival-mysore-dasara-indian-260nw-2374898517.jpg)
 
-![Obrazek](https://www.shutterstock.com/image-photo/mysore-karnataka-india-11-august-260nw-1872205759.jpg)
+![Obrazek](https://www.shutterstock.com/image-photo/mysore-karnataka-india-11-august-260nw-1872204580.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-vector/mysore-palace-vector-line-art-260nw-2310852805.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/mysore-india-aug-2018-interior-260nw-1168879903.jpg)
 
+![Obrazek](https://www.shutterstock.com/image-photo/famous-mysore-palace-india-260nw-150354008.jpg)
+
 ![Obrazek](https://www.shutterstock.com/image-vector/mysore-palace-line-drawing-dasara-260nw-2369035583.jpg)
 
-![Obrazek](https://www.shutterstock.com/image-photo/famous-mysore-palace-india-260nw-150354008.jpg)
+![Obrazek](https://www.shutterstock.com/image-photo/mysore-karnataka-india-11-august-260nw-1872205759.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-vector/mysore-dasara-festival-line-drawing-260nw-2301911727.jpg)
 

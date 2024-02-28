@@ -1,17 +1,18 @@
 ### Additional info: 
 
-- [https://en.chateauversailles.fr/](https://en.chateauversailles.fr/)
-- [https://whc.unesco.org/en/list/83/](https://whc.unesco.org/en/list/83/)
-- [https://www.britannica.com/topic/Palace-of-Versailles](https://www.britannica.com/topic/Palace-of-Versailles)
 
 
  --- 
 
  **Pictures**: 
 
+![Obrazek](https://www.shutterstock.com/image-photo/versailles-france-11-june-2022-260nw-2282823171.jpg)
+
 ![Obrazek](https://www.shutterstock.com/image-photo/latona-fountain-versailles-park-landscape-260nw-2273706197.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/famous-palace-versailles-beautiful-gardens-260nw-1360459706.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/versailles-france-11-june-2022-260nw-2282823003.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/latona-fountain-versailles-park-landscape-260nw-2273272997.jpg)
 
@@ -31,8 +32,6 @@
 
 ![Obrazek](https://www.shutterstock.com/image-photo/versailles-france-august-18-2012-260nw-2361698515.jpg)
 
-![Obrazek](https://www.shutterstock.com/image-photo/versailles-france-11-june-2022-260nw-2282823171.jpg)
-
 ![Obrazek](https://www.shutterstock.com/image-photo/versailles-france-may-5th-2023-260nw-2299279969.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/versailles-royal-palace-castle-one-260nw-639435967.jpg)
@@ -46,6 +45,4 @@
 ![Obrazek](https://www.shutterstock.com/image-photo/golden-gates-versailles-castle-city-260nw-2363493973.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/view-palace-versailles-paris-france-260nw-2226112613.jpg)
-
-![Obrazek](https://www.shutterstock.com/image-photo/versailles-france-11-june-2022-260nw-2282823003.jpg)
 

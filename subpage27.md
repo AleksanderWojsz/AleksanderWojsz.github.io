@@ -1,8 +1,5 @@
 ### Additional info: 
 
-- [https://muze.gen.tr/muze-detay/topkapi](https://muze.gen.tr/muze-detay/topkapi)
-- [https://muze.gen.tr/muze-detay/harem](https://muze.gen.tr/muze-detay/harem)
-- [https://muze.gen.tr/MuseumPasses](https://muze.gen.tr/MuseumPasses)
 
 
  --- 
@@ -21,13 +18,13 @@
 
 ![Obrazek](https://www.shutterstock.com/image-photo/istanbul-turkey-mart-11-2019-260nw-2077067392.jpg)
 
+![Obrazek](https://www.shutterstock.com/image-photo/istanbul-turkey-april-3-2022-260nw-2142331997.jpg)
+
 ![Obrazek](https://www.shutterstock.com/image-photo/entrance-istanbul-topkapi-palace-large-260nw-2096999929.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-vector/turkey-cityscape-istanbul-bosphorus-galata-260nw-2278941775.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/istanbul-turkey-january-01-2011-260nw-2008396499.jpg)
-
-![Obrazek](https://www.shutterstock.com/image-photo/istanbul-turkey-april-3-2022-260nw-2142331997.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/istanbul-turkey-mary-05-2018-260nw-1825269668.jpg)
 

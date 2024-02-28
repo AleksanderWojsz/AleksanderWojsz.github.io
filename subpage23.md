@@ -1,8 +1,5 @@
 ### Additional info: 
 
-- [https://pl.wikipedia.org/wiki/Kreml_kaza%C5%84ski](https://pl.wikipedia.org/wiki/Kreml_kaza%C5%84ski)
-- [https://whc.unesco.org/en/list/980/](https://whc.unesco.org/en/list/980/)
-- [https://www.advantour.com/russia/kazan/kremlin.htm](https://www.advantour.com/russia/kazan/kremlin.htm)
 
 
  --- 
@@ -37,6 +34,10 @@
 
 ![Obrazek](https://www.shutterstock.com/image-photo/kazan-kremlin-on-banks-river-260nw-1183242646.jpg)
 
+![Obrazek](https://www.shutterstock.com/image-photo/july-15-2021-spasskaya-tower-260nw-2073566636.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/july-16-2021-kul-sharif-260nw-2073566129.jpg)
+
 ![Obrazek](https://www.shutterstock.com/image-photo/top-view-kazan-kremlin-qul-260nw-2350746785.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/kazan-russia-june-15-2023-260nw-2374409725.jpg)
@@ -44,8 +45,4 @@
 ![Obrazek](https://www.shutterstock.com/image-photo/kazan-kremlin-river-kazanka-against-260nw-1827359654.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/kazan-kremlin-summer-tatarstan-russia-260nw-2312747313.jpg)
-
-![Obrazek](https://www.shutterstock.com/image-photo/kazan-kremlin-summer-tatarstan-russia-260nw-1997621675.jpg)
-
-![Obrazek](https://www.shutterstock.com/image-photo/july-15-2021-spasskaya-tower-260nw-2073566636.jpg)
 

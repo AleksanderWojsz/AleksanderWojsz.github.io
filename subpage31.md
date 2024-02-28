@@ -1,8 +1,5 @@
 ### Additional info: 
 
-- [https://whc.unesco.org/en/list/545/](https://whc.unesco.org/en/list/545/)
-- [https://www.britannica.com/place/Moscow/The-Kremlin](https://www.britannica.com/place/Moscow/The-Kremlin)
-- [http://en.kremlin.ru/](http://en.kremlin.ru/)
 
 
  --- 
@@ -15,11 +12,9 @@
 
 ![Obrazek](https://www.shutterstock.com/image-photo/moscow-kremlin-river-morning-russia-260nw-725596186.jpg)
 
-![Obrazek](https://www.shutterstock.com/image-photo/view-moscow-kremlin-afternoon-russia-260nw-2331288657.jpg)
-
 ![Obrazek](https://www.shutterstock.com/image-photo/st-basils-cathedral-on-red-260nw-508812862.jpg)
 
-![Obrazek](https://www.shutterstock.com/image-photo/aerial-panoramic-view-red-square-260nw-2429212731.jpg)
+![Obrazek](https://www.shutterstock.com/image-photo/view-moscow-kremlin-afternoon-russia-260nw-2331288657.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/moscow-kremlin-st-basils-cathedral-260nw-699949696.jpg)
 
@@ -29,9 +24,9 @@
 
 ![Obrazek](https://www.shutterstock.com/image-photo/moscow-kremlin-moskva-river-russia-260nw-1419194690.jpg)
 
-![Obrazek](https://www.shutterstock.com/image-photo/moscow-russia-december-20-2020-260nw-2388218723.jpg)
-
 ![Obrazek](https://www.shutterstock.com/image-photo/kremlin-saint-cathedral-moscow-russia-260nw-300119723.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/moscow-russia-december-20-2020-260nw-2388218723.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/spasskaya-tower-kremlin-early-autumn-260nw-648235390.jpg)
 
@@ -39,11 +34,13 @@
 
 ![Obrazek](https://www.shutterstock.com/image-photo/moscow-kremlin-st-basils-cathedral-260nw-1048682888.jpg)
 
-![Obrazek](https://www.shutterstock.com/image-photo/aerial-panoramic-view-red-square-260nw-2429212733.jpg)
-
 ![Obrazek](https://www.shutterstock.com/image-photo/panorama-moscow-kremlin-zaryadye-park-260nw-2187513905.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/city-landscape-centre-moscow-view-260nw-2176071123.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/aerial-panoramic-view-red-square-260nw-2429212731.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/aerial-panoramic-view-red-square-260nw-2429212733.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/st-basils-cathedral-ancient-architecture-260nw-1708494337.jpg)
 

@@ -1,17 +1,14 @@
 ### Additional info: 
 
-- [https://www.britannica.com/topic/Parthenon](https://www.britannica.com/topic/Parthenon)
-- [https://smarthistory.org/the-parthenon-athens/](https://smarthistory.org/the-parthenon-athens/)
-- [https://acropolistickets.tours/parthenon-history/](https://acropolistickets.tours/parthenon-history/)
 
 
  --- 
 
  **Pictures**: 
 
-![Obrazek](https://www.shutterstock.com/image-photo/parthenon-acropolis-unesco-world-heritage-260nw-2217021325.jpg)
-
 ![Obrazek](https://www.shutterstock.com/image-photo/acropolis-athens-greece-parthenon-temple-260nw-1168009126.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/parthenon-acropolis-unesco-world-heritage-260nw-2217021325.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/acropolis-athens-greece-parthenon-temple-260nw-753910417.jpg)
 
@@ -25,17 +22,17 @@
 
 ![Obrazek](https://www.shutterstock.com/image-photo/panorama-athens-acropolis-hill-greece-260nw-2202284795.jpg)
 
-![Obrazek](https://www.shutterstock.com/image-photo/panoramic-view-over-old-town-260nw-1077798518.jpg)
-
 ![Obrazek](https://www.shutterstock.com/image-photo/athens-greece-night-image-above-260nw-1193397715.jpg)
 
-![Obrazek](https://www.shutterstock.com/image-photo/parthenon-acropolis-unesco-world-heritage-260nw-2217021337.jpg)
+![Obrazek](https://www.shutterstock.com/image-photo/panoramic-view-over-old-town-260nw-1077798518.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/parthenon-temple-on-sinset-acropolis-260nw-2248147893.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/skyline-athenth-moanstiraki-square-acropolis-260nw-1901809321.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/odeon-herodes-atticus-theater-by-260nw-2324609623.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/parthenon-acropolis-unesco-world-heritage-260nw-2217021337.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/skyline-athens-monastiraki-square-acropolis-260nw-2055397688.jpg)
 

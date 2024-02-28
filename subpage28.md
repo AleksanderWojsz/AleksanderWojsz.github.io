@@ -1,8 +1,5 @@
 ### Additional info: 
 
-- [https://mexicocity.cdmx.gob.mx/venues/chapultepec-castle/](https://mexicocity.cdmx.gob.mx/venues/chapultepec-castle/)
-- [https://www.tripadvisor.com/Attraction_Review-g150800-d183986-Reviews-Chapultepec_Castle-Mexico_City_Central_Mexico_and_Gulf_Coast.html](https://www.tripadvisor.com/Attraction_Review-g150800-d183986-Reviews-Chapultepec_Castle-Mexico_City_Central_Mexico_and_Gulf_Coast.html)
-- [https://www.lonelyplanet.com/mexico/mexico-city/polanco-and-bosque-de-chapultepec/attractions/castillo-de-chapultepec/a/poi-sig/1382610/1342809](https://www.lonelyplanet.com/mexico/mexico-city/polanco-and-bosque-de-chapultepec/attractions/castillo-de-chapultepec/a/poi-sig/1382610/1342809)
 
 
  --- 
@@ -21,13 +18,11 @@
 
 ![Obrazek](https://www.shutterstock.com/image-photo/mexico-city-feb-17-historical-260nw-616501169.jpg)
 
+![Obrazek](https://www.shutterstock.com/image-photo/facade-castillo-de-chapultepec-castle-260nw-2147494035.jpg)
+
 ![Obrazek](https://www.shutterstock.com/image-photo/polancolandscape-mexico-city-park-chapultepec-260nw-543928726.jpg)
 
-![Obrazek](https://www.shutterstock.com/image-photo/aerial-view-chapultepec-park-castillo-260nw-2429162245.jpg)
-
 ![Obrazek](https://www.shutterstock.com/image-photo/chapultepec-castle-view-above-mexico-260nw-1486549427.jpg)
-
-![Obrazek](https://www.shutterstock.com/image-photo/aerial-view-chapultepec-park-castillo-260nw-2429162255.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/view-chapultepec-paseo-de-la-260nw-362007188.jpg)
 
@@ -37,15 +32,17 @@
 
 ![Obrazek](https://www.shutterstock.com/image-photo/mexico-city-aerial-view-chapultepec-260nw-1279377850.jpg)
 
+![Obrazek](https://www.shutterstock.com/image-photo/aerial-view-chapultepec-park-castillo-260nw-2429162245.jpg)
+
 ![Obrazek](https://www.shutterstock.com/image-photo/mexico-city-21-december-2021-260nw-2331834001.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/smiling-young-latin-woman-tourist-260nw-2400863171.jpg)
 
-![Obrazek](https://www.shutterstock.com/image-photo/facade-castillo-de-chapultepec-castle-260nw-2147494035.jpg)
-
 ![Obrazek](https://www.shutterstock.com/image-photo/ciudad-de-mexico-cdmx-10-260nw-2247840877.jpg)
 
-![Obrazek](https://www.shutterstock.com/image-photo/aerial-view-chapultepec-park-castillo-260nw-2429164935.jpg)
+![Obrazek](https://www.shutterstock.com/image-photo/landscape-mexico-city-park-chapultepec-260nw-540769507.jpg)
 
-![Obrazek](https://www.shutterstock.com/image-photo/mexico-city-january-12-2018-260nw-1872234889.jpg)
+![Obrazek](https://www.shutterstock.com/image-photo/mexico-citymexico-february-192014-horizontal-260nw-388241407.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/castillo-de-chapultepec-aerial-shot-260nw-1045144699.jpg)
 

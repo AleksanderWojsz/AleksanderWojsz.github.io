@@ -1,8 +1,5 @@
 ### Additional info: 
 
-- [https://statueofunity.in/](https://statueofunity.in/)
-- [https://www.gujarattourism.com/central-zone/narmada/statue-of-unity.html](https://www.gujarattourism.com/central-zone/narmada/statue-of-unity.html)
-- [http://www.soutickets.in/](http://www.soutickets.in/)
 
 
  --- 

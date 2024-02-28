@@ -1,8 +1,5 @@
 ### Additional info: 
 
-- [https://www.britannica.com/topic/Forbidden-City](https://www.britannica.com/topic/Forbidden-City)
-- [https://www.khanacademy.org/humanities/ap-art-history/south-east-se-asia/china-art/a/forbidden-city](https://www.khanacademy.org/humanities/ap-art-history/south-east-se-asia/china-art/a/forbidden-city)
-- [https://whc.unesco.org/en/list/439/](https://whc.unesco.org/en/list/439/)
 
 
  --- 
@@ -29,9 +26,9 @@
 
 ![Obrazek](https://www.shutterstock.com/image-photo/forbidden-city-sunset-glow-beijingchina-260nw-84846286.jpg)
 
-![Obrazek](https://www.shutterstock.com/image-photo/forbidden-city-beijing-china-260nw-2167583435.jpg)
-
 ![Obrazek](https://www.shutterstock.com/image-photo/business-area-sanlitun-chaoyang-district-260nw-2325049159.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/forbidden-city-beijing-china-260nw-2167583435.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/china-beijing-tiananmen-gate-entrance-260nw-242156926.jpg)
 
@@ -45,7 +42,7 @@
 
 ![Obrazek](https://www.shutterstock.com/image-vector/forbidden-city-china-icon-different-260nw-2339630955.jpg)
 
-![Obrazek](https://www.shutterstock.com/image-photo/aerial-urban-landscape-view-forbidden-260nw-104609876.jpg)
+![Obrazek](https://www.shutterstock.com/image-photo/aerial-top-down-view-shek-260nw-2310185825.jpg)
 
-![Obrazek](https://www.shutterstock.com/image-photo/forbidden-city-beijing-china-260nw-90248413.jpg)
+![Obrazek](https://www.shutterstock.com/image-photo/forbidden-city-beijing-china-ancient-260nw-2177713803.jpg)
 

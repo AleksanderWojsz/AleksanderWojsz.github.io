@@ -1,8 +1,5 @@
 ### Additional info: 
 
-- [https://www.wilanow-palac.pl/](https://www.wilanow-palac.pl/)
-- [https://pl.wikipedia.org/wiki/Pa%C5%82ac_w_Wilanowie](https://pl.wikipedia.org/wiki/Pa%C5%82ac_w_Wilanowie)
-- [https://warsawtour.pl/project/muzeum-palacu-krola-jana-iii-w-wilanowie/](https://warsawtour.pl/project/muzeum-palacu-krola-jana-iii-w-wilanowie/)
 
 
  --- 
