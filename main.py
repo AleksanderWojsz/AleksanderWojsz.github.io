@@ -1,6 +1,6 @@
 from bs4 import BeautifulSoup
 import requests
-# from googlesearch import search
+from googlesearch import search
 
 def prepare_descriptions():
     title = wiki_soup.find("h1", id="firstHeading").text
@@ -20,8 +20,8 @@ def create_subpage(country_name, city_name):
 
     with open(subpage_filename, "w", encoding="utf-8") as subpage_file:
         subpage_file.write("### Additional info: \n\n")
-        # for url in search(monument_name + " -site:https://en.wikipedia.org", stop=3):
-        #     subpage_file.write(f"- [{url}]({url})\n")
+        for url in search(monument_name + " -site:https://en.wikipedia.org", stop=3):
+            subpage_file.write(f"- [{url}]({url})\n")
         subpage_file.write("\n\n --- \n\n **Pictures**: \n\n")
 
         headers = {
