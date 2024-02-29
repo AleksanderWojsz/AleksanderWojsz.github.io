@@ -1,5 +1,8 @@
 ### Additional info: 
 
+- [http://mezquita-catedraldecordoba.es/en/](http://mezquita-catedraldecordoba.es/en/)
+- [https://www.turismodecordoba.org/the-mosque-cathedral-of-cordoba-spain](https://www.turismodecordoba.org/the-mosque-cathedral-of-cordoba-spain)
+- [http://mezquita-catedraldecordoba.es/en/organiza-la-visita/entradas-y-horarios/](http://mezquita-catedraldecordoba.es/en/organiza-la-visita/entradas-y-horarios/)
 
 
  --- 
@@ -18,7 +21,11 @@
 
 ![Obrazek](https://www.shutterstock.com/image-photo/cordoba-spain-july-14-2022-260nw-2322202479.jpg)
 
+![Obrazek](https://www.shutterstock.com/image-photo/mezquita-mosque-cathedral-unesco-world-260nw-2350278191.jpg)
+
 ![Obrazek](https://www.shutterstock.com/image-photo/sunset-view-old-roman-bridge-260nw-2270737835.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/mezquita-mosque-cathedral-unesco-world-260nw-2350279277.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/cordoba-spain-august-30-2023-260nw-2399106131.jpg)
 
@@ -36,13 +43,9 @@
 
 ![Obrazek](https://www.shutterstock.com/image-photo/cordoba-spain-jun-10-2019-260nw-2308808285.jpg)
 
-![Obrazek](https://www.shutterstock.com/image-photo/mezquita-mosque-cathedral-unesco-world-260nw-2350278191.jpg)
-
 ![Obrazek](https://www.shutterstock.com/image-photo/interior-cathedral-former-great-mosque-260nw-137864276.jpg)
 
+![Obrazek](https://www.shutterstock.com/image-photo/mezquita-mosque-cathedral-unesco-world-260nw-2350277839.jpg)
+
 ![Obrazek](https://www.shutterstock.com/image-photo/cordoba-spain-august-22-2023-260nw-2374841611.jpg)
-
-![Obrazek](https://www.shutterstock.com/image-photo/cordoba-spain-june-29-2018-260nw-1450691789.jpg)
-
-![Obrazek](https://www.shutterstock.com/image-photo/urban-night-landscape-view-city-260nw-2304484555.jpg)
 

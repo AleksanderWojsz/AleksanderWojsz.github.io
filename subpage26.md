@@ -1,5 +1,8 @@
 ### Additional info: 
 
+- [https://simple.wikipedia.org/wiki/Chichen_Itza](https://simple.wikipedia.org/wiki/Chichen_Itza)
+- [https://pl.wikipedia.org/wiki/Chich%C3%A9n_Itz%C3%A1](https://pl.wikipedia.org/wiki/Chich%C3%A9n_Itz%C3%A1)
+- [https://pl.wikipedia.org/wiki/Chich%C3%A9n_Itz%C3%A1#Historia](https://pl.wikipedia.org/wiki/Chich%C3%A9n_Itz%C3%A1#Historia)
 
 
  --- 

@@ -1,5 +1,8 @@
 ### Additional info: 
 
+- [https://www.auschwitz.org/en/](https://www.auschwitz.org/en/)
+- [https://www.auschwitz.org/](https://www.auschwitz.org/)
+- [https://www.theauschwitztours.com/auschwitz-birkenau-memorial-and-museum/](https://www.theauschwitztours.com/auschwitz-birkenau-memorial-and-museum/)
 
 
  --- 
@@ -14,13 +17,13 @@
 
 ![Obrazek](https://www.shutterstock.com/image-photo/poland-06-2023-auschwitz-birkenau-260nw-2324157817.jpg)
 
-![Obrazek](https://www.shutterstock.com/image-photo/guard-tower-auschwitzbirkenau-offset-260nw-1898019826.jpg)
-
 ![Obrazek](https://www.shutterstock.com/image-photo/oswiecim-poland-november-7-2018-260nw-2119673927.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/solemn-reminder-auschwitzbirkenau-poland-haunting-260nw-2339487053.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/auschwitz-poland-july-11-2017-260nw-742482232.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/guard-tower-auschwitzbirkenau-offset-260nw-1898019826.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/auschwitz-concentration-camp-konzentrationslager-kl-260nw-2276365445.jpg)
 
@@ -42,7 +45,7 @@
 
 ![Obrazek](https://www.shutterstock.com/image-photo/auschwitz-birkenau-museum-memorial-concentration-260nw-1868907139.jpg)
 
-![Obrazek](https://www.shutterstock.com/image-photo/auschwitz-poland-july-16-2023-260nw-2370084393.jpg)
+![Obrazek](https://www.shutterstock.com/image-photo/brick-buildings-auschwitzbirkenau-offset-260nw-1898019829.jpg)
 
-![Obrazek](https://www.shutterstock.com/image-photo/photo-muzeum-auschwitzbirkenau-260nw-1463534798.jpg)
+![Obrazek](https://www.shutterstock.com/image-photo/view-auschwitzbirkenau-offset-collection-260nw-1898019835.jpg)
 

@@ -1,5 +1,8 @@
 ### Additional info: 
 
+- [https://www.nps.gov/stli/](https://www.nps.gov/stli/)
+- [https://www.nps.gov/stli/planyourvisit/index.htm](https://www.nps.gov/stli/planyourvisit/index.htm)
+- [https://www.nps.gov/stli/planyourvisit/fees.htm](https://www.nps.gov/stli/planyourvisit/fees.htm)
 
 
  --- 
@@ -24,13 +27,13 @@
 
 ![Obrazek](https://www.shutterstock.com/image-photo/statue-liberty-on-background-sky-260nw-1910213164.jpg)
 
+![Obrazek](https://www.shutterstock.com/image-photo/picturesque-view-statue-liberty-located-260nw-2250962995.jpg)
+
 ![Obrazek](https://www.shutterstock.com/image-vector/statue-liberty-vector-logo-icon-260nw-2320957199.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/front-view-statue-liberty-new-260nw-107139215.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/statue-liberty-highrise-building-lower-260nw-1300624558.jpg)
-
-![Obrazek](https://www.shutterstock.com/image-photo/picturesque-view-statue-liberty-located-260nw-2250962995.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-vector/new-york-260nw-81592828.jpg)
 
@@ -42,7 +45,7 @@
 
 ![Obrazek](https://www.shutterstock.com/image-photo/statue-liberty-new-york-city-260nw-163278785.jpg)
 
-![Obrazek](https://www.shutterstock.com/image-vector/set-grunge-rubber-stamps-new-260nw-117298756.jpg)
+![Obrazek](https://www.shutterstock.com/image-photo/statue-liberty-located-on-island-260nw-1938044140.jpg)
 
-![Obrazek](https://www.shutterstock.com/image-vector/welcome-usa-united-states-america-260nw-676137877.jpg)
+![Obrazek](https://www.shutterstock.com/image-vector/set-grunge-rubber-stamps-new-260nw-117298756.jpg)
 

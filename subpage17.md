@@ -1,5 +1,8 @@
 ### Additional info: 
 
+- [https://simple.wikipedia.org/wiki/Teotihuac%C3%A1n](https://simple.wikipedia.org/wiki/Teotihuac%C3%A1n)
+- [https://pl.wikipedia.org/wiki/Teotihuac%C3%A1n](https://pl.wikipedia.org/wiki/Teotihuac%C3%A1n)
+- [https://whc.unesco.org/en/list/414/](https://whc.unesco.org/en/list/414/)
 
 
  --- 
@@ -20,13 +23,9 @@
 
 ![Obrazek](https://www.shutterstock.com/image-photo/view-pyramid-moon-plaza-archaeological-260nw-2327524459.jpg)
 
-![Obrazek](https://www.shutterstock.com/image-photo/san-juan-mexico-march-1-260nw-2375396861.jpg)
-
 ![Obrazek](https://www.shutterstock.com/image-photo/avenue-dead-sun-pyramid-temple-260nw-322518740.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/pyramid-sun-teotihuacan-mexico-view-260nw-85850740.jpg)
-
-![Obrazek](https://www.shutterstock.com/image-photo/san-juan-mexico-march-1-260nw-2375396817.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/mexico-city-may-13-2023-260nw-2332714825.jpg)
 
@@ -40,9 +39,13 @@
 
 ![Obrazek](https://www.shutterstock.com/image-photo/san-juan-mexico-may-12-260nw-2330778991.jpg)
 
-![Obrazek](https://www.shutterstock.com/image-photo/san-juan-mexico-march-1-260nw-2375396839.jpg)
-
 ![Obrazek](https://www.shutterstock.com/image-photo/san-juan-mexico-may-12-260nw-2331337289.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/serpent-heads-decorations-on-exterior-260nw-2327531309.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/feathered-stone-serpent-head-on-260nw-2327521553.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/pyramid-moon-ancient-city-teotihuacan-260nw-135458792.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/san-juan-mexico-may-12-260nw-2330277031.jpg)
 

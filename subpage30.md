@@ -1,5 +1,8 @@
 ### Additional info: 
 
+- [https://statueofunity.in/](https://statueofunity.in/)
+- [http://www.soutickets.in/](http://www.soutickets.in/)
+- [https://www.gujarattourism.com/central-zone/narmada/statue-of-unity.html](https://www.gujarattourism.com/central-zone/narmada/statue-of-unity.html)
 
 
  --- 
@@ -34,15 +37,15 @@
 
 ![Obrazek](https://www.shutterstock.com/image-photo/19-oct-2021-gujarat-india-260nw-2314643801.jpg)
 
-![Obrazek](https://www.shutterstock.com/image-photo/view-sardar-sarovar-dam-top-260nw-2406698403.jpg)
-
 ![Obrazek](https://www.shutterstock.com/image-photo/19-oct-2021-gujarat-india-260nw-2314643795.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/view-sardar-sarovar-dam-top-260nw-2406698403.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/view-sardar-sarovar-dam-top-260nw-2406698405.jpg)
 
-![Obrazek](https://www.shutterstock.com/image-photo/kevadia-gujrat-india-march-29th-260nw-2406694633.jpg)
-
 ![Obrazek](https://www.shutterstock.com/image-photo/19-oct-2021-gujarat-india-260nw-2314643923.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/kevadia-gujrat-india-march-29th-260nw-2406694633.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/19-oct-2021-gujarat-india-260nw-2314643753.jpg)
 

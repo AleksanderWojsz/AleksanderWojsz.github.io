@@ -1,5 +1,8 @@
 ### Additional info: 
 
+- [https://www.koelner-dom.de/en](https://www.koelner-dom.de/en)
+- [https://whc.unesco.org/en/list/292/](https://whc.unesco.org/en/list/292/)
+- [https://www.cologne-tourism.com/arts-culture/sights/detail/cologne-cathedral](https://www.cologne-tourism.com/arts-culture/sights/detail/cologne-cathedral)
 
 
  --- 
@@ -8,13 +11,13 @@
 
 ![Obrazek](https://www.shutterstock.com/image-photo/distant-view-city-cologne-evening-260nw-2235687979.jpg)
 
-![Obrazek](https://www.shutterstock.com/image-photo/germany-north-rhinewestphalia-rhineland-cologne-260nw-1872410803.jpg)
-
 ![Obrazek](https://www.shutterstock.com/image-photo/detail-cathedral-cologne-germany-260nw-1360865633.jpg)
 
-![Obrazek](https://www.shutterstock.com/image-photo/cologne-cathedral-hohenzollern-bridge-through-260nw-2291545111.jpg)
+![Obrazek](https://www.shutterstock.com/image-photo/germany-north-rhinewestphalia-rhineland-cologne-260nw-1872410803.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/waterfront-cityscape-town-hall-great-260nw-1896037270.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/cologne-cathedral-hohenzollern-bridge-through-260nw-2291545111.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/cologne-aerial-view-trains-move-260nw-2232485429.jpg)
 
@@ -42,7 +45,7 @@
 
 ![Obrazek](https://www.shutterstock.com/image-photo/cologne-cathedral-aerial-panoramic-view-260nw-2385490893.jpg)
 
-![Obrazek](https://www.shutterstock.com/image-photo/cologne-cathedral-germany-260nw-2260738983.jpg)
+![Obrazek](https://www.shutterstock.com/image-photo/germany-north-rhinewestphalia-cologne-low-260nw-2199399445.jpg)
 
-![Obrazek](https://www.shutterstock.com/image-photo/cologne-cathedral-seen-below-blue-260nw-2260339917.jpg)
+![Obrazek](https://www.shutterstock.com/image-photo/cologne-cathedral-germany-260nw-2260738983.jpg)
 

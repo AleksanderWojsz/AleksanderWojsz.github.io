@@ -1,5 +1,8 @@
 ### Additional info: 
 
+- [https://simple.wikipedia.org/wiki/Machu_Picchu](https://simple.wikipedia.org/wiki/Machu_Picchu)
+- [https://pl.wikipedia.org/wiki/Machu_Picchu](https://pl.wikipedia.org/wiki/Machu_Picchu)
+- [https://pl.wikipedia.org/wiki/Huayna_Picchu](https://pl.wikipedia.org/wiki/Huayna_Picchu)
 
 
  --- 
@@ -16,11 +19,7 @@
 
 ![Obrazek](https://www.shutterstock.com/image-photo/panorama-machu-picchu-pikchu-panoramic-260nw-402107749.jpg)
 
-![Obrazek](https://www.shutterstock.com/image-photo/llama-lama-glama-front-machu-260nw-2322843249.jpg)
-
 ![Obrazek](https://www.shutterstock.com/image-photo/view-lost-incan-city-machu-260nw-364973210.jpg)
-
-![Obrazek](https://www.shutterstock.com/image-photo/machu-picchu-cusco-region-peru-260nw-2372224375.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/valley-incas-machu-picchu-260nw-2288166057.jpg)
 
@@ -40,9 +39,13 @@
 
 ![Obrazek](https://www.shutterstock.com/image-photo/couple-dressed-ponchos-watching-ruins-260nw-1663051612.jpg)
 
+![Obrazek](https://www.shutterstock.com/image-photo/llama-lama-glama-front-machu-260nw-2322843249.jpg)
+
 ![Obrazek](https://www.shutterstock.com/image-photo/machu-picchu-peru-unesco-world-260nw-1027477753.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/morning-sun-rising-plaza-de-260nw-354971309.jpg)
 
 ![Obrazek](https://www.shutterstock.com/image-photo/young-tourist-observes-machu-picchu-260nw-2219208941.jpg)
 
-![Obrazek](https://www.shutterstock.com/image-photo/morning-sun-rising-plaza-de-260nw-354971309.jpg)
+![Obrazek](https://www.shutterstock.com/image-photo/cuzco-peru-view-san-blas-260nw-370770203.jpg)
 

@@ -1,5 +1,8 @@
 ### Additional info: 
 
+- [https://whc.unesco.org/en/list/545/](https://whc.unesco.org/en/list/545/)
+- [http://en.kremlin.ru/](http://en.kremlin.ru/)
+- [https://www.britannica.com/place/Moscow/The-Kremlin](https://www.britannica.com/place/Moscow/The-Kremlin)
 
 
  --- 
@@ -38,11 +41,11 @@
 
 ![Obrazek](https://www.shutterstock.com/image-photo/city-landscape-centre-moscow-view-260nw-2176071123.jpg)
 
-![Obrazek](https://www.shutterstock.com/image-photo/aerial-panoramic-view-red-square-260nw-2429212731.jpg)
-
-![Obrazek](https://www.shutterstock.com/image-photo/aerial-panoramic-view-red-square-260nw-2429212733.jpg)
-
 ![Obrazek](https://www.shutterstock.com/image-photo/st-basils-cathedral-ancient-architecture-260nw-1708494337.jpg)
 
+![Obrazek](https://www.shutterstock.com/image-photo/kremlin-red-square-moscow-on-260nw-2238056961.jpg)
+
 ![Obrazek](https://www.shutterstock.com/image-photo/russia-moscow-red-square-kremlin-260nw-2132080093.jpg)
+
+![Obrazek](https://www.shutterstock.com/image-photo/moscow-kremlin-moskva-river-russia-260nw-1336744427.jpg)
 
